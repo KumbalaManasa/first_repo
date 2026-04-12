@@ -4,3 +4,5 @@ c = 3
 d = 3
 print(a+b)
 print(a*b)
+sum = a+b+c+d
+print(sum)
