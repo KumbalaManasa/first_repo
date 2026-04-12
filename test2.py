@@ -6,3 +6,4 @@ s = 3
 print(r*s)
 a=1
 b=2
+a+b
